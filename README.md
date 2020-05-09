@@ -10,7 +10,7 @@ This tool is hopping to create a complete web interface with the following featu
 * Provide GUI for multiple installations of Kafka Connect
 * Provide GUI for multiple installations of KSQLDB instances
 * Provide GUI for multiple installations of Schema Registry instances
-* Provide GUI for Kafka MirrorMaker and MM2 and orchestrate cluster replication
+* Provide GUI for Kafka MirrorMaker and [MM2](https://cwiki.apache.org/confluence/display/KAFKA/KIP-382%3A+MirrorMaker+2.0) and orchestrate cluster replication
 * Organize the various attached systesm (i.e. Kafka, Kafka Connect, etc.) into groups for easier management
 * Provide complete user management including SSO, RBAC, Hashicorp Vault integration
 * Provide and interface which could 
@@ -20,6 +20,7 @@ This tool is hopping to create a complete web interface with the following featu
 Usage of this prodcut is described by the following documents:
 * [User's Guide]()
 * [Administrator's Guide]()
+* [Developer's Guide]()
 
 ```
 Original instructions are following (to be removed)
